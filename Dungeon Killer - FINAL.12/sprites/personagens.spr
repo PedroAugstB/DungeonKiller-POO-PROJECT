@@ -1,0 +1,69 @@
+# Sprites ASCII para Dungeon Killer
+# Formato: nome:largura:altura:conteudo
+
+# Jogador Guerreiro
+guerreiro:7:5:
+  O  
+ /|\ 
+ / \ 
+ | | 
+/   \
+
+# Jogador Mago
+mago:7:5:
+  O  
+ /|\ 
+ / \ 
+ | | 
+/   \
+
+# Goblin
+goblin:5:4:
+  G  
+ /|\ 
+ / \ 
+/   \
+
+# Ogro
+ogro:9:6:
+   OOO  
+  /|||\ 
+ / ||| \ 
+|  |||  |
+ \ ||| / 
+  \|||/  
+
+# Dragão
+dragao:15:8:
+      OOOOO      
+     /|||||\     
+    / ||||| \    
+   /  |||||  \   
+  /   |||||   \  
+ /    |||||    \ 
+|     |||||     |
+ \    |||||    / 
+
+# Cura (efeito)
+cura:7:3:
+  *  
+ *** 
+  *  
+
+# Ataque (efeito)
+ataque:7:3:
+  >  
+ >>> 
+  >  
+
+# Defesa (efeito)
+defesa:7:3:
+  O  
+ OOO 
+  O  
+
+# Habilidade (efeito)
+habilidade:7:3:
+  !  
+ !!! 
+  !  
